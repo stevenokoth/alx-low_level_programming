@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * returns zero when exited in correct way, otherswise, a non-zero is the result
+ * returns zero when exited in correct way.
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	puts("Programming is like building a multilingual puzzle\n");
 	return (0);
 }
 
