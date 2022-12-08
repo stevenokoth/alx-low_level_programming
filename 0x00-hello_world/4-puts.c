@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * returns zero when exited in correct way.
+ * main - prints "Programming is like building a multilingual puzzle
+ * Return: 0 if exited properly, non-zero otherwise
  */
 int main(void)
 {
